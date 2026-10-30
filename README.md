@@ -41,7 +41,7 @@ User Command → Speech Recognition → "Set an alarm for 7 AM tomorrow" → NLP
 6. **Smart Home Control:** Controls connected devices such as lights, fans, TVs, and air conditioners.
 7. **Information Retrieval:** Provides information such as weather, news, facts, and general knowledge.
 8. **Task Automation:** Performs tasks such as setting alarms, timers, reminders, and schedules.
-9. **Multilingual Support:** Can understand and respond in multiple languages.
+9. **Multilingual Support:** Can understand and respond in multiple languages..
 10. **Continuous Learning:** Uses machine learning and user feedback to improve system performance.
 
 ## RESULT
